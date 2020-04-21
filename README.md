@@ -27,13 +27,48 @@ mark complete when done.
  
 
 
-## Admin Panel
+# Admin Panel
 
 - Login to the admin using:
 ```bash
   Username : tamerjar
   Password : 12345
  ```
+ 
+ ## Issue Tasks (Admin)
+ Admin can issue task by selecting a user to issue the tasks to.
+ 
+ ![](/Images/admin_issue_task.PNG)
+ 
+ 
+ ## Display Tasks (Admin)
+ Admin can view all issued task he/she made, the admin can also see if the tasks were completed, and can also edit & delete issued tasks.
+ 
+ ![](/Images/admin_display_tasks.PNG) 
+ 
+ ## Display Users (Admin)
+ Admin can also view all registered users and decide to deactivate or reactivate their account if neccessary.
+ 
+ ![](/Images/admin_display_users.PNG)
+ 
+ 
+ 
+# User Panel
+
+Users can register if they do not have an active account.
+
+ ![](/Images/user_register.PNG)
+ 
+ 
+ ## Display Tasks (User)
+ 
+ Users can view their issued tasks, which include date of task created and due date for the task to be complete, users can also mark tasks as complete when the task issued to them were completed
+ 
+![](/Images/user_issued_tasks.PNG)
+ 
+ 
+ 
+ 
 
 
 
