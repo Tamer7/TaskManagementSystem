@@ -29,11 +29,10 @@ mark complete when done.
 
 # Admin Panel
 
-- Login to the admin using:
-```bash
-  Username : tamerjar
-  Password : 12345
- ```
+- Login in to the admin panel by using a username & password pre-set by you:
+
+    Start by navigating to the admin_registration table (From the tms database in the App_data folder), and right click on the               admin_registration table and select "Show table Data" and from there enter the credentials and use them to login to the admin. 
+ 
  
  ## Issue Tasks (Admin)
  Admin can issue task by selecting a user to issue the tasks to.
